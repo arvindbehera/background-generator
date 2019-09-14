@@ -1,4 +1,4 @@
-var _ = require("lodash");
+import _ from "lodash";
 Console.log(_);
 
 var color1 = document.querySelector(".color1");
